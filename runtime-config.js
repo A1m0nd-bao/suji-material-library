@@ -1,1 +1,1 @@
-window.__SUJI_CONFIG__ = {"apiBase": "https://resulted-vernon-prohibited-pounds.trycloudflare.com"};
+window.__SUJI_CONFIG__ = {"apiBase": "https://ata-widespread-deaf-rangers.trycloudflare.com"};
